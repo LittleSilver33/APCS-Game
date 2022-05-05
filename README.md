@@ -1,1 +1,1 @@
-# APCS-Game
+This is the game that I, and a few friends, created as our final project for our AP Computer Science A class in high school. Overall, the game went quite well and only took about a month to write. The code is all written in Java. 
